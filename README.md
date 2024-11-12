@@ -38,10 +38,10 @@ External & Public view/pure functions
 ```
 It’s okay if you haven’t followed this structure before—consider it a new best practice to adopt! You can use with `OrderOfLayout.sol` ready-to-use template on GitHub to help you implement this in your projects. 🛠️
 
-## 👉 Stay Tuned for Code Samples and Template Link!
+## 👉 Stay Tuned for Code Samples!
 
 Let’s embrace a shared standard and build better smart contracts together.
-[Source](#https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout)
+- [Source](#https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout)
 
 ---
 
