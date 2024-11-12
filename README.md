@@ -41,10 +41,10 @@ It’s okay if you haven’t followed this structure before—consider it a new 
 ## 👉 Stay Tuned for Code Samples!
 
 Let’s embrace a shared standard and build better smart contracts together.
-- - [Source] (#https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout)
-- - [0xKoiner] (#https://twitter.com/0xKoiner)
-- - [LinkedIn] (#https://www.linkedin.com/in/alex-gray-61ba69251/)
-  - 
+- - [Source] (https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout)
+- - [0xKoiner] (https://twitter.com/0xKoiner)
+- - [LinkedIn] (https://www.linkedin.com/in/alex-gray-61ba69251/)
+  
 ---
 
 **Tags:** #Solidity #SmartContracts #BlockchainDevelopment #CodeLayout
