@@ -12,8 +12,6 @@ A clean and consistent code layout:
 
 ## Recommended Layout (Simplified and User-Friendly):
 
-<details>
-<summary>Click to view the layout</summary>
 
 Layout of Contract:
 
@@ -37,7 +35,6 @@ Internal functions
 Private functions
 Internal & Private view/pure functions
 External & Public view/pure functions
-</details>
 
 It’s okay if you haven’t followed this structure before—consider it a new best practice to adopt! I’ll be sharing examples (with screenshots) and a ready-to-use template on GitHub to help you implement this in your projects. 🛠️
 
