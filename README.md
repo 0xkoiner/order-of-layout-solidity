@@ -10,9 +10,9 @@ Helps new developers quickly understand the structure.
 Sets a standard that aligns with the broader Solidity community.
 
 <h2>Here’s the layout I recommend (simplified and user-friendly):</h2>
-<br>------</br>
+<br></br>
 <details>
-  ```
+```
     Layout of Contract:
     version
     imports
@@ -34,8 +34,7 @@ Sets a standard that aligns with the broader Solidity community.
     private
     internal & private view & pure functions
     external & public view & pure functions
-  ```
-</details>
+```</details>
 
 <br></br>
 It’s okay if you haven’t followed this structure before—consider it a new best practice to adopt! I’ll be sharing examples (with screenshots) and a ready-to-use template on GitHub to make it easier for you to start implementing this in your projects. 🛠️
