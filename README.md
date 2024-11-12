@@ -36,7 +36,7 @@ Private functions
 Internal & Private view/pure functions
 External & Public view/pure functions
 ```
-It’s okay if you haven’t followed this structure before—consider it a new best practice to adopt! I’ll be sharing examples (with screenshots) and a ready-to-use template on GitHub to help you implement this in your projects. 🛠️
+It’s okay if you haven’t followed this structure before—consider it a new best practice to adopt! You can use with `OrderOfLayout.sol` ready-to-use template on GitHub to help you implement this in your projects. 🛠️
 
 ## 👉 Stay Tuned for Code Samples and Template Link!
 
