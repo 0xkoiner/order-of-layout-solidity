@@ -13,28 +13,27 @@ Sets a standard that aligns with the broader Solidity community.
 <br></br>
 <details>
   ```
-    // Layout of Contract:
-    // version
-    // imports
-    // errors
-    // interfaces, libraries, contracts
-    // Type declarations (Enum, Struct)
-    // State variables
-    // Events
-    // Modifiers
-    // Functions
-    ```
-  ```
-    // Layout of Functions:
-    // constructor
-    // receive function (if exists)
-    // fallback function (if exists)
-    // external
-    // public
-    // internal
-    // private
-    // internal & private view & pure functions
-    // external & public view & pure functions
+    Layout of Contract:
+    version
+    imports
+    errors
+    interfaces, libraries, contracts
+    Type declarations (Enum, Struct)
+    State variables
+    Events
+    Modifiers
+    Functions
+
+    Layout of Functions:
+    constructor
+    receive function (if exists)
+    fallback function (if exists)
+    external
+    public
+    internal
+    private
+    internal & private view & pure functions
+    external & public view & pure functions
   ```
 </details>
 
