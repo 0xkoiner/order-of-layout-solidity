@@ -41,6 +41,7 @@ It’s okay if you haven’t followed this structure before—consider it a new 
 ## 👉 Stay Tuned for Code Samples and Template Link!
 
 Let’s embrace a shared standard and build better smart contracts together.
+[Source](#https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout)
 
 ---
 
