@@ -23,7 +23,8 @@ Sets a standard that aligns with the broader Solidity community.
     // Events
     // Modifiers
     // Functions
-    
+    ```
+  ```
     // Layout of Functions:
     // constructor
     // receive function (if exists)
