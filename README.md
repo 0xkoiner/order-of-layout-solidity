@@ -18,7 +18,7 @@ Sets a standard that aligns with the broader Solidity community.
     // imports
     // errors
     // interfaces, libraries, contracts
-    // Type declarations - Enum, Struct
+    // Type declarations (Enum, Struct)
     // State variables
     // Events
     // Modifiers
