@@ -11,7 +11,7 @@ Sets a standard that aligns with the broader Solidity community.
 
 <h2>Here’s the layout I recommend (simplified and user-friendly):</h2>
 <br></br>
-<details><details>
+<details>
 // Layout of Contract:
 // version
 // imports
